@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: aliceblue;
+    overflow-x: hidden;
+
+}
+.links{
+    width: 70%;
+}
+.Listx{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.listx{
+
+    margin: 10px;
+    width: 340px;
+    height: 450px;
+}
+.nmx{
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+}
